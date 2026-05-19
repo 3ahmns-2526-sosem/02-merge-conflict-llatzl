@@ -2,4 +2,7 @@
 
 Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
 
-mergeConflict GitHub: Dieses Projekt wurde lokal bearbeitet.
+
+Dieses Projekt wurde lokal und online bearbeitet.
+Der Merge Conflict wurde gelöst.
+
